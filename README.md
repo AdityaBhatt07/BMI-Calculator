@@ -28,5 +28,5 @@ Use this app to calculate your BMI based on your height and weight and see your 
 
 ## Live Demo
 
-Try the app online here:  
+Try the app online here:-
 [**Open BMI Calculator App**](https://bmi-calculator-health.streamlit.app/) 
